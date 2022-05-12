@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- I'm Yapeng Teng.
+
+- I am studying at Southeast University and have been studying since 2018.
+
+- I am interested in deep learning, especially Score-based Generative Model , and its application, like Unsupervised Anomaly Detection.
+- Now, I am working for Unsupervised Anomaly Detection with Score-based Generative Model. 
+
